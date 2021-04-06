@@ -5,3 +5,4 @@
 3. Buscar nuevos miembros
 4. Acabar con Darkseid y Deathstroke
 5. Pedir ayuda a Flash
+6. Proteger las Mother Box
