@@ -3,5 +3,5 @@
 1. Acabar con el plan de Lex Luthor
 2. Crear la liga de la justicia
 3. Buscar nuevos miembros
-4. Acabar con Darkseid, Catwoman y Joker
-5. Conseguir provisiones para el equipo
+4. Acabar con Darkseid y Deathstroke
+5. Pedir ayuda a Flash
