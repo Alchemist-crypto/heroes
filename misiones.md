@@ -10,3 +10,6 @@
 8. Solicitar un préstamo de dinero a Batman, para comprar equipos
 9. Pedir ayuda
 10. Correr
+11. Caminar
+10. Hola 
+11. Adiós
