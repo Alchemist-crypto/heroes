@@ -6,3 +6,6 @@
 4. Acabar con Darkseid y Deathstroke
 5. Pedir ayuda a Flash
 6. Proteger las Mother Box
+7. Cooperar con la reina de las Amazonas
+8. Solicitar un préstamo de dinero a Batman, para comprar equipos
+9. Pedir ayuda
