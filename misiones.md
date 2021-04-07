@@ -9,3 +9,4 @@
 7. Cooperar con la reina de las Amazonas
 8. Solicitar un préstamo de dinero a Batman, para comprar equipos
 9. Pedir ayuda
+10. Correr
