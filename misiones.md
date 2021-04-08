@@ -13,3 +13,4 @@
 11. Caminar
 10. Hola 
 11. Adiós
+12. Salvar personas secuestradas por el Joker
