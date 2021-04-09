@@ -7,3 +7,4 @@
 5. Brainic
 6. Reverse Flash
 7. Dessad
+8. Poison Ivy
